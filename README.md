@@ -1,4 +1,4 @@
-# POWER BI
+# PROJECT SUMMARY
 In collaboration with S & L Manufacturers Ltd., I undertook a critical analysis of supplier quality to address significant challenges stemming from the absence of a centralized procurement system. The lack of consistency across various plants resulted in difficulties validating supplier performance and material quality, leading to operational inefficiencies.
 
 By consolidating data from multiple sources, I identified key metrics related to material defects and vendor performance. The analysis revealed specific vendors responsible for the highest defect rates and highlighted the plants contributing most to operational downtime. Additionally, I examined the interactions between materials and vendors to uncover combinations that performed poorly.
